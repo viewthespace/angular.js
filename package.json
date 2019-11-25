@@ -7,8 +7,9 @@
   "distTag": "previous_1_6",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular/angular.js.git"
+    "url": "https://github.com/viewthespace/angular.js.git"
   },
+  "main": "build/angular.min.js",
   "engines": {
     "node": "^8.9.1",
     "yarn": ">=1.3.2",
